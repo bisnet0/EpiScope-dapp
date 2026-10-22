@@ -1,3 +1,5 @@
+<img src="/EpiScope+cartesi-banner.png" alt="Henrique Bisneto's banner">
+
 # ⚙️ EpiScope DApp - Backend Descentralizado (Cartesi Machine)
 
 O **EpiScope-dapp** é o componente **Web3** do projeto **EpiScope - Analisador de Doenças com IA e Blockchain** 🧬.  
